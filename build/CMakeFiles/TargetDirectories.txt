@@ -1,0 +1,9 @@
+/home/shreyansh/Desktop/ug2sem2/cg/ass/ass1/2020101013/build/CMakeFiles/rebuild_cache.dir
+/home/shreyansh/Desktop/ug2sem2/cg/ass/ass1/2020101013/build/CMakeFiles/edit_cache.dir
+/home/shreyansh/Desktop/ug2sem2/cg/ass/ass1/2020101013/build/CMakeFiles/glad.dir
+/home/shreyansh/Desktop/ug2sem2/cg/ass/ass1/2020101013/build/CMakeFiles/app.dir
+/home/shreyansh/Desktop/ug2sem2/cg/ass/ass1/2020101013/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/shreyansh/Desktop/ug2sem2/cg/ass/ass1/2020101013/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/shreyansh/Desktop/ug2sem2/cg/ass/ass1/2020101013/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/shreyansh/Desktop/ug2sem2/cg/ass/ass1/2020101013/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/shreyansh/Desktop/ug2sem2/cg/ass/ass1/2020101013/build/libraries/glfw/src/CMakeFiles/glfw.dir
